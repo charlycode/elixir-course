@@ -1,20 +1,21 @@
 
-# ¡Bienvenidos a la clase de Erlang/Elixir!
+# ¡Bienvenidos a la clase de Erlang/Elixir/Phoenix!
 
 ---
 # Horario
 
 - La clase empieza a las 9:00 AM
-- Descansos a las 11:00 AM y a la 1 PM
-- La clase termina a las 3 PM
-- Quien guste podemos ir a comer a Coyoacan
+- Descanso a las 11:00 AM
+- Comida de 1 PM a 2 PM
+- Descanso a las 4 PM
+- La clase termina a las 6 PM
 
 ---
 # Temario
 
-1. Miercoles: Erlang/OTP
-2. Jueves: Elixir
-3. Viernes: Phoenix
+1. Día 1: Erlang/OTP
+2. Días 2 y 3: Elixir
+3. Día 4  : Phoenix
 
 ---
 # Objetivos
@@ -27,15 +28,12 @@
 ---
 # Estructura de la clase
 
-Por la Mañana
 1. Explicación teórica
 2. Demostración
 3. Ejemplo
 4. Preguntas
-
-Por la tarde
-5. Tarea
+5. Ejercicio
 
 ---
 
-# ¡Nuevamente bienvenidos a la clase de Erlang/Elixir!
+# ¡Nuevamente bienvenidos a la clase de Erlang/Elixir/Phoenix!

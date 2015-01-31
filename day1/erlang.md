@@ -14,7 +14,7 @@
 Este curso es gratuito y disponible “AS IS”. Sin ningún compromiso por parte del expositor o de la empresa que representa. Cualquier daño psicológico, decepción, o fallecimiento producido por la revisión de este material no podrá ser atribuido al expositor.
 
 ---
-# Primera Aplicación
+# Primera Aplciación
 
 
 
